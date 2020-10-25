@@ -1,1 +1,1 @@
-c est mon doc, avec bug 115 corrigé 
+c est mon doc, avec bug 116 corrigé par Fred
